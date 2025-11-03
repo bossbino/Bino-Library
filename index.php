@@ -1,5 +1,4 @@
 <?php
-// index.php — Hiro's Library (Modern Layout with Updated Book List)
 
 // -----------------------------
 // Recursive Library Data
@@ -399,3 +398,4 @@ modal.onclick=e=>{if(e.target===modal)modal.style.display='none';};
 
 </body>
 </html>
+
